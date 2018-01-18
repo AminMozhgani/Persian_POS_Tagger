@@ -5,4 +5,4 @@ I've used [TensorFlow Part-of-Speech Tagger](https://github.com/mrahtz/tensorflo
 
 ##Using
 
-Just put your text in *data/input.txt* file and execute *python evaluate.py*, the desired result will be added to *data/result.txt*.
+Just put your text in **data/input.txt** file and execute **python evaluate.py**, the desired result will be added to **data/result.txt**.
